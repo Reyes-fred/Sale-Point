@@ -1,0 +1,12 @@
+1,Pelota Chica,10.00,25,Pelota de Hule
+2,Pelota Profesional,70.00,13,Pelota profesional numero 8
+3,Ferreros Chicos,30.00,20,Caja Chocolates 6 piezas
+4,Ferreros Medianos,70.00,11,Caja Chocolates 15 piezas
+5,Coche HotWheel,20.00,42,Coche metalico HotWheel
+6,Taza decorada,45.00,23,Taza con chocolates y decoraciones
+7,Rosa,15.00,17,Rosa con olor
+8,Sombrilla Chica,30.00,37,Sombrilla varios colores de bolsillo
+9,Cartera Piel,75.00,28,Cartera Caballero de piel
+10,Cartera Equipo,70.00,28,Cartera Equipo Futbol
+11,Monedero,120.00,28,Monedero para dama
+12,Reloj Caballero,360.00,10,Reloj marca Casio para Hombre
